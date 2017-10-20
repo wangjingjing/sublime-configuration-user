@@ -1,0 +1,26 @@
+Sublime Text 3-->Data-->Packages-->User目录
+
+先在Sublime主目录下新建Data目录，
+启动Sublime安装Package Control，
+然后同步Data目录下的User目录
+
+已安装的插件
+A File Icon：和Boxy Theme一起安装
+Alignment
+AutoFileName
+Boxy Theme
+BracketHighlighter
+ColorPicker
+ConvertToUTF8
+DocBlockr
+Emmet
+FileDiffs
+Git
+GitGutter
+IMESupport：解决中文输入法不跟随光标的问题
+JsFormat
+MarkdownEditing
+OmniMarkupPreviewer：ctrl+alt+o在浏览器中查看正在编辑的Mardown文件
+SideBarEnhancements
+SublimeCodeIntel
+SublimeLinter
